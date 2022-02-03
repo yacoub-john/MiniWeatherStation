@@ -51,7 +51,7 @@ In the testing part of my project, I made sure that I was getting precise data a
 
  </p>
   
-  <p align="center"><b> Figure 3: Sound Data (Using Java and Arduino and the sound sensor and my application) vs. Sound Data (Using phone microphone and an app)  </b></p>
+  <p align="center"><b> Figure 3: Sound Data (Using MATLAB and Arduino and the sound sensor and my application) vs. Sound Data (Using phone microphone and an app)  </b></p>
 
 **CONCLUSION:**
 
